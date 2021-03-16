@@ -16,7 +16,7 @@ class Config:
 
 class Messages:
 
-    START_MSG = "**Hi there {}.**\n__I'm Google Drive Uploader Bot.You can use me to upload any file / video to Google Drive from direct link or Telegram Files.__\n__You can know more from /help.__"
+    START_MSG = "**Hi there {}.**\n__I'm Google Drive Uploader Bot By @vkprojects You can use me to upload any file / video to Google Drive from direct link or Telegram Files.__\n__You can know more from /help.__"
 
     HELP_MSG = [
         ".",
@@ -34,5 +34,5 @@ class Messages:
         
         "**Rules & Precautions**\n__1. Don't copy BIG Google Drive Files/Folders. It may hang the bot and your files maybe damaged.\n2. Send One request at a time unless bot will stop all processes.\n3. Don't send slow links @transload it first.\n4. Don't misuse, overload or abuse this free service.__",
         
-        "**Developed by @viperadnan**"
+        "**BOT by @vkprojects**"
         ]
